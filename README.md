@@ -3,15 +3,6 @@ Desarrollo de un brazo robótico inspirado en el diseño de [InMoov](http://inmo
 
 ## Video del Proyecto
 
+[Enlace](https://youtu.be/FtCoOFdI5gM)
 
-
-https://github.com/DanZarate/Mano-Bionica-Inmoov/assets/57600901/10772a42-5c74-4729-a361-3f4e16b91889
-
-
-
-<p align="center">
-  <a href="https://youtu.be/FtCoOFdI5gM" target="_blank">
-    <img src="http://img.youtube.com/vi/FtCoOFdI5gM/0.jpg" alt="Ver video en YouTube" width="600">
-  </a>
-</p>
-
+https://github.com/DanZarate/Mano-Bionica-Inmoov/assets/57600901/10772a42-5c74-4729-a361-3f4e16b91889 
