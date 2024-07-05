@@ -4,8 +4,8 @@ Desarrollo de un brazo robótico inspirado en el diseño de [InMoov](http://inmo
 ## Video del Proyecto
 
 <p align="center">
-  <a href="https://youtu.be/FtCoOFdI5gM?si=rrRjqNvEiUPE9XG7" target="_blank">
-    <img src="http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Ver video en YouTube" width="600">
+  <a href="https://youtu.be/FtCoOFdI5gM" target="_blank">
+    <img src="http://img.youtube.com/vi/FtCoOFdI5gM/0.jpg" alt="Ver video en YouTube" width="600">
   </a>
 </p>
 
